@@ -39,3 +39,6 @@ data set distribution
 
 ###  confusion matrix
 ![confusion_matrix](https://github.com/7HAVEN/Song_genre_classification_using_lyrics/blob/main/confusion_matrix.png)
+
+#### dataset link 
+https://www.kaggle.com/datasets/elizzyliu/song-lyrics
