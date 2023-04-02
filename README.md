@@ -1,5 +1,5 @@
 
-# Song genre classfication using lyrics
+# Song genre classification using lyrics
 
 this project uses TF-IDF to classify the song genre into one of the following genres 
 
